@@ -10,7 +10,6 @@ Options
 <br /><br />
 Two version available<br />
     <li>app.js is using ES5 syntax</li>
-    <li>app-arrow-es6.js is unsing ES6 syntax</li><br />
-        <li>- Arrow functions</li>
+    <li>app-arrow-es6.js is unsing ES6 syntax => Arrow functions</li>
 <br /><br />
 Node debugger added to the notes-arrow-es6.js module to debugger - Use inspect command to deebug the program
